@@ -13,4 +13,6 @@ Commands for preparing the enviornment (Assuming you are in the main folder e.g.
 10. (From grpc-client folder e.g. seperate ssh connection) chmod 777 mvnw
 11. (From grpc-client folder e.g. seperate ssh connection) ./mvnw spring-boot:run -Dmaven.test.skip=true
 12. rm -rf ECS796P-Lab4
+13. http://35.239.9.155:8082/add
+14. http://35.239.9.155:8082/multiply
 
